@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+  <resources>
+      <color name="colorPrimary">#222222</color>
+      <color name="colorPrimaryDark">#222222</color>
+      <color name="colorAccent">#323232</color>
+      <color name="DarkColor">#404040</color>
+      <color name="barColor">#000000</color>
+      <color name="GreyColor">#8C8C8C</color>
+      <color name="PlayerColor">#3C3C3C</color>
+      <color name="whiTeColor">#ffffff</color>
+      <color name="itemColor">#C8C8C8</color>
+  </resources>
